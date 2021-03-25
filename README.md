@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://scontent.fssz1-1.fna.fbcdn.net/v/t1.0-1/p480x480/94627009_2965635183503845_6584281888079216640_o.jpg?_nc_cat=106&_nc_sid=7206a8&_nc_ohc=-hUPMq48K7wAX_7uOZR&_nc_ht=scontent.fssz1-1.fna&_nc_tp=6&oh=101417b1150ca44c6674883531d2214e&oe=5F5FDD01" width="200" style="border-radius: 50%;" />
+<img src="https://i.imgur.com/nHYc6jJ.jpg" width="200" style="border-radius: 50%;" />
 
 Software Developer @ [ATTA](https://atta.com.vc)
 </div>
