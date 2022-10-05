@@ -4,7 +4,7 @@
   
 <img src="https://i.imgur.com/nHYc6jJ.jpg" width="200" style="border-radius: 50%;" />
 
-Software Developer @ [ATTA](https://atta.com.vc)
+Engineer Lead @ [ATTA](https://atta.com.vc)
 </div>
 
 | <!-- -->      | <!-- -->            | 
